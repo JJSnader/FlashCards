@@ -1,0 +1,11 @@
+C:\dev\FlashCards\FlashCards\bin\Debug\FlashCards.exe.config
+C:\dev\FlashCards\FlashCards\bin\Debug\FlashCards.exe
+C:\dev\FlashCards\FlashCards\bin\Debug\FlashCards.pdb
+C:\dev\FlashCards\FlashCards\obj\Debug\FlashCards.csproj.AssemblyReference.cache
+C:\dev\FlashCards\FlashCards\obj\Debug\FlashCards.csproj.SuggestedBindingRedirects.cache
+C:\dev\FlashCards\FlashCards\obj\Debug\FlashCards.frmMain.resources
+C:\dev\FlashCards\FlashCards\obj\Debug\FlashCards.Properties.Resources.resources
+C:\dev\FlashCards\FlashCards\obj\Debug\FlashCards.csproj.GenerateResource.cache
+C:\dev\FlashCards\FlashCards\obj\Debug\FlashCards.csproj.CoreCompileInputs.cache
+C:\dev\FlashCards\FlashCards\obj\Debug\FlashCards.exe
+C:\dev\FlashCards\FlashCards\obj\Debug\FlashCards.pdb
